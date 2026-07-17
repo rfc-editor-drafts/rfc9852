@@ -5,7 +5,7 @@
 Internet Engineering Task Force (IETF)                           R. Salz
 Request for Comments: 9852                           Akamai Technologies
 BCP: 195                                                       N. Aviram
-Updates: 9325                                               January 2026
+Updates: 9325                                                  July 2026
 Category: Best Current Practice                                         
 ISSN: 2070-1721
 
